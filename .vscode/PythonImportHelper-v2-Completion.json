@@ -1,0 +1,778 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "randrange",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "RealDictCursor",
+        "importPath": "psycopg2.extras",
+        "description": "psycopg2.extras",
+        "isExtraImport": true,
+        "detail": "psycopg2.extras",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy.sql.expression",
+        "description": "sqlalchemy.sql.expression",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.expression",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "get_posts",
+        "kind": 2,
+        "importPath": "app.routers.post",
+        "description": "app.routers.post",
+        "peekOfCode": "def get_posts(db: Session = Depends(get_db)):\n     posts = db.query(models.Post).all()\n     #cursor.execute(\"\"\"SELECT * FROM posts\"\"\")\n     #posts =cursor.fetchall()\n     return posts\n@router.post(\"/posts\", status_code= status.HTTP_201_CREATED, response_model= schemas.Post)\ndef create_post(post: schemas.PostCreate, db:Session = Depends(get_db)):\n  #new_post = models.Post(title = post.title, content = post.content. published = post.published)\n    new_post = models.Post(**post.dict())#when u have more 10 fields. this makes it easy\n    db.add(new_post)",
+        "detail": "app.routers.post",
+        "documentation": {}
+    },
+    {
+        "label": "create_post",
+        "kind": 2,
+        "importPath": "app.routers.post",
+        "description": "app.routers.post",
+        "peekOfCode": "def create_post(post: schemas.PostCreate, db:Session = Depends(get_db)):\n  #new_post = models.Post(title = post.title, content = post.content. published = post.published)\n    new_post = models.Post(**post.dict())#when u have more 10 fields. this makes it easy\n    db.add(new_post)\n    db.commit()\n    db.refresh(new_post)\n    return  new_post\n@router.get(\"/posts/{id}\",response_model= schemas.Post)\ndef get_post(id: int, db: Session = Depends(get_db)):\n    #cursor.execute(\"\"\"SELECT * FROM posts WHERE id = %s\"\"\", (str(id),))",
+        "detail": "app.routers.post",
+        "documentation": {}
+    },
+    {
+        "label": "get_post",
+        "kind": 2,
+        "importPath": "app.routers.post",
+        "description": "app.routers.post",
+        "peekOfCode": "def get_post(id: int, db: Session = Depends(get_db)):\n    #cursor.execute(\"\"\"SELECT * FROM posts WHERE id = %s\"\"\", (str(id),))\n   # post = cursor.fetchone()\n    post = db.query(models.Post).filter(models.Post.id ==id).first()\n    if not post:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f\"post with the id {id} does not exist\")\n    else:\n        return  post\n@router.delete(\"/post/{id}\",status_code=status.HTTP_204_NO_CONTENT)\ndef delete_post(id: int,db:Session = Depends(get_db)):",
+        "detail": "app.routers.post",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post",
+        "kind": 2,
+        "importPath": "app.routers.post",
+        "description": "app.routers.post",
+        "peekOfCode": "def delete_post(id: int,db:Session = Depends(get_db)):\n     post = db.query(models.Post).filter(models.Post.id ==id)\n     if post.first() ==  None:\n        raise HTTPException(status_code =status.HTTP_404_NOT_FOUND, detail=f\"post with the id {id} does not exist\")\n     post.delete(synchronize_session = False)\n     db.commit()\n     return Response(status_code = status.HTTP_204_NO_CONTENT,  ) \n@router.put(\"/post/{id}\", response_model= schemas.Post) \ndef update_post(id: int, updated_post: schemas.PostCreate, db:Session = Depends(get_db)):\n    #cursor.execute(\"\"\"UPDATE posts SET title = %s, content = %s, published = %s WHERE id = %s  RETURNING *\"\"\", (post.title, post.content, post.published, id) )",
+        "detail": "app.routers.post",
+        "documentation": {}
+    },
+    {
+        "label": "update_post",
+        "kind": 2,
+        "importPath": "app.routers.post",
+        "description": "app.routers.post",
+        "peekOfCode": "def update_post(id: int, updated_post: schemas.PostCreate, db:Session = Depends(get_db)):\n    #cursor.execute(\"\"\"UPDATE posts SET title = %s, content = %s, published = %s WHERE id = %s  RETURNING *\"\"\", (post.title, post.content, post.published, id) )\n    #updated_post= cursor.fetchone()\n    post_query= db.query(models.Post).filter(models.Post.id == id)\n    post = post_query.first()\n    db.commit()\n    if post is None: \n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND )\n    else:\n        post_query.update(updated_post.dict(), synchronize_session=False)",
+        "detail": "app.routers.post",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.post",
+        "description": "app.routers.post",
+        "peekOfCode": "router = APIRouter(\n)\n@router.get(\"/posts\", response_model= List[schemas.Post])\ndef get_posts(db: Session = Depends(get_db)):\n     posts = db.query(models.Post).all()\n     #cursor.execute(\"\"\"SELECT * FROM posts\"\"\")\n     #posts =cursor.fetchall()\n     return posts\n@router.post(\"/posts\", status_code= status.HTTP_201_CREATED, response_model= schemas.Post)\ndef create_post(post: schemas.PostCreate, db:Session = Depends(get_db)):",
+        "detail": "app.routers.post",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "app.routers.user",
+        "description": "app.routers.user",
+        "peekOfCode": "def create_user(user:schemas.UserCreate,  db: Session = Depends(get_db)):\n    #hash the password - user.password\n    hashed_password = utilis.hash(user.password)\n    user.password = hashed_password\n    new_user = models.User(**user.dict())#when u have more 10 fields. this makes it easy\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)\n    return  new_user\n@router.get(\"/users/{id}\", response_model= schemas.UserOut)",
+        "detail": "app.routers.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.routers.user",
+        "description": "app.routers.user",
+        "peekOfCode": "def get_user(id:int, db:Session = Depends(get_db)):\n   user = db.query(models.User).filter(models.User.id == id).first()\n   if user == None :\n       raise HTTPException(status_code= status.HTTP_404_NOT_FOUND, detail= f\"User with id {id} does not exist\")\n   else:\n       return user",
+        "detail": "app.routers.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.user",
+        "description": "app.routers.user",
+        "peekOfCode": "router = APIRouter(\n)\n@router.post(\"/users\", status_code= status.HTTP_201_CREATED, response_model= schemas.UserOut )    \ndef create_user(user:schemas.UserCreate,  db: Session = Depends(get_db)):\n    #hash the password - user.password\n    hashed_password = utilis.hash(user.password)",
+        "detail": "app.routers.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"postgresql://postgres:password1@localhost/FastApidb\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit= False, autoflush= False, bind= engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit= False, autoflush= False, bind= engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit= False, autoflush= False, bind= engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "find_post",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def find_post(id):\n    for p in my_posts:\n        if p[\"id\"] == id:\n            return p\ndef find_index_post(id):\n    for i, p in enumerate (my_posts):\n        if p['id'] == id:\n            return i\napp.include_router(\n    post.router",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "find_index_post",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def find_index_post(id):\n    for i, p in enumerate (my_posts):\n        if p['id'] == id:\n            return i\napp.include_router(\n    post.router\n)\napp.include_router(\n    user.router\n)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def root():\n    return {\"message\": \"hello world\"}\n@app.get(\"/posts\", response_model= List[schemas.Post])\ndef get_posts(db: Session = Depends(get_db)):\n     posts = db.query(models.Post).all()\n     #cursor.execute(\"\"\"SELECT * FROM posts\"\"\")\n     #posts =cursor.fetchall()\n     return posts\n@app.post(\"/posts\", status_code= status.HTTP_201_CREATED, response_model= schemas.Post)\ndef create_post(post: schemas.PostCreate, db:Session = Depends(get_db)):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_posts",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def get_posts(db: Session = Depends(get_db)):\n     posts = db.query(models.Post).all()\n     #cursor.execute(\"\"\"SELECT * FROM posts\"\"\")\n     #posts =cursor.fetchall()\n     return posts\n@app.post(\"/posts\", status_code= status.HTTP_201_CREATED, response_model= schemas.Post)\ndef create_post(post: schemas.PostCreate, db:Session = Depends(get_db)):\n  #new_post = models.Post(title = post.title, content = post.content. published = post.published)\n    new_post = models.Post(**post.dict())#when u have more 10 fields. this makes it easy\n    db.add(new_post)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_post",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def create_post(post: schemas.PostCreate, db:Session = Depends(get_db)):\n  #new_post = models.Post(title = post.title, content = post.content. published = post.published)\n    new_post = models.Post(**post.dict())#when u have more 10 fields. this makes it easy\n    db.add(new_post)\n    db.commit()\n    db.refresh(new_post)\n    return  new_post\n@app.get(\"/posts/{id}\",response_model= schemas.Post)\ndef get_post(id: int, db: Session = Depends(get_db)):\n    #cursor.execute(\"\"\"SELECT * FROM posts WHERE id = %s\"\"\", (str(id),))",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_post",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def get_post(id: int, db: Session = Depends(get_db)):\n    #cursor.execute(\"\"\"SELECT * FROM posts WHERE id = %s\"\"\", (str(id),))\n   # post = cursor.fetchone()\n    post = db.query(models.Post).filter(models.Post.id ==id).first()\n    if not post:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f\"post with the id {id} does not exist\")\n    else:\n        return  post\n@app.delete(\"/post/{id}\",status_code=status.HTTP_204_NO_CONTENT)\ndef delete_post(id: int,db:Session = Depends(get_db)):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def delete_post(id: int,db:Session = Depends(get_db)):\n     post = db.query(models.Post).filter(models.Post.id ==id)\n     if post.first() ==  None:\n        raise HTTPException(status_code =status.HTTP_404_NOT_FOUND, detail=f\"post with the id {id} does not exist\")\n     post.delete(synchronize_session = False)\n     db.commit()\n     return Response(status_code = status.HTTP_204_NO_CONTENT,  ) \n@app.put(\"/post/{id}\", response_model= schemas.Post) \ndef update_post(id: int, updated_post: schemas.PostCreate, db:Session = Depends(get_db)):\n    #cursor.execute(\"\"\"UPDATE posts SET title = %s, content = %s, published = %s WHERE id = %s  RETURNING *\"\"\", (post.title, post.content, post.published, id) )",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "update_post",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def update_post(id: int, updated_post: schemas.PostCreate, db:Session = Depends(get_db)):\n    #cursor.execute(\"\"\"UPDATE posts SET title = %s, content = %s, published = %s WHERE id = %s  RETURNING *\"\"\", (post.title, post.content, post.published, id) )\n    #updated_post= cursor.fetchone()\n    post_query= db.query(models.Post).filter(models.Post.id == id)\n    post = post_query.first()\n    conn.commit()\n    if post is None: \n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND )\n    else:\n        post_query.update(updated_post.dict(), synchronize_session=False)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def create_user(user:schemas.UserCreate,  db: Session = Depends(get_db)):\n    #hash the password - user.password\n    hashed_password = utilis.hash(user.password)\n    user.password = hashed_password\n    new_user = models.User(**user.dict())#when u have more 10 fields. this makes it easy\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)\n    return  new_user\n@app.get(\"/users/{id}\", response_model= schemas.UserOut)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def get_user(id:int, db:Session = Depends(get_db)):\n   user = db.query(models.User).filter(models.User.id == id).first()\n   if user == None :\n       raise HTTPException(status_code= status.HTTP_404_NOT_FOUND, detail= f\"User with id {id} does not exist\")\n   else:\n       return user",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\nwhile True:\n    try:\n        conn = psycopg2.connect(host='localhost', database='FastApidb', user='postgres', password='password1', cursor_factory=RealDictCursor)\n        cursor = conn.cursor()\n        print(\"Database connection was successful\")\n        break\n    except Exception as error:\n        print(\"Connecting to a Database failed\")\n        print(\"Error:\", error)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "my_posts",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "my_posts = [{\"title\": \"title of post 1\", \"content\": \"content of post 1\", \"id\": 1}, {\n    \"title\": \"favorite foods\", \"content\": \"i like piiza\", \"id\": 2}]\ndef find_post(id):\n    for p in my_posts:\n        if p[\"id\"] == id:\n            return p\ndef find_index_post(id):\n    for i, p in enumerate (my_posts):\n        if p['id'] == id:\n            return i",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Post(Base): #sqlalchemy model\n    __tablename__ = \"posts\"\n    id = Column(Integer, primary_key=True, nullable=False)\n    title = Column(String, nullable = False)\n    content = Column(String, nullable = False)\n    published = Column(Boolean, server_default = 'TRUE')\n    created_at = Column(TIMESTAMP (timezone= True), server_default = text('now()'))\nclass User(Base):\n    __tablename__= \"users\"\n    id = Column(Integer, primary_key=True, nullable=False)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class User(Base):\n    __tablename__= \"users\"\n    id = Column(Integer, primary_key=True, nullable=False)\n    email = Column(String, nullable = False, unique = True)\n    password = Column(String, nullable = False)\n    created_at = Column(TIMESTAMP (timezone= True), server_default = text('now()'), nullable = False)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PostBase",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class PostBase(BaseModel):\n    title: str\n    content: str\n    published: bool = True\nclass PostCreate(PostBase):\n    pass\nclass Post(PostBase):\n    id : int\n    created_at: datetime\n    class Config:   #it can be optional",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PostCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class PostCreate(PostBase):\n    pass\nclass Post(PostBase):\n    id : int\n    created_at: datetime\n    class Config:   #it can be optional\n        orm_mode = True\nclass UserCreate(BaseModel):\n    email : EmailStr\n    password:str",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class Post(PostBase):\n    id : int\n    created_at: datetime\n    class Config:   #it can be optional\n        orm_mode = True\nclass UserCreate(BaseModel):\n    email : EmailStr\n    password:str\nclass UserOut(BaseModel):\n        id: int",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserCreate(BaseModel):\n    email : EmailStr\n    password:str\nclass UserOut(BaseModel):\n        id: int\n        email : EmailStr\n        created_at: datetime",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserOut(BaseModel):\n        id: int\n        email : EmailStr\n        created_at: datetime",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "hash",
+        "kind": 2,
+        "importPath": "app.utilis",
+        "description": "app.utilis",
+        "peekOfCode": "def hash(password:str):\n    return pwd_context.hash(password)",
+        "detail": "app.utilis",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.utilis",
+        "description": "app.utilis",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated = \"auto\")\ndef hash(password:str):\n    return pwd_context.hash(password)",
+        "detail": "app.utilis",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "techenv.Scripts.activate_this",
+        "description": "techenv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "techenv.Scripts.activate_this",
+        "documentation": {}
+    }
+]
