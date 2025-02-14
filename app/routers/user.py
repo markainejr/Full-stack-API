@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Body, status, HTTPException, Depends, Response, APIRouter
-from .. import models, schemas, utilis
+from .. import models, schemas, utils
 from sqlalchemy.orm import Session
 from .. database import   get_db
 
@@ -26,7 +26,7 @@ router = APIRouter(
 @router.post("/", status_code= status.HTTP_201_CREATED, response_model= schemas.UserOut )    
 def create_user(user:schemas.UserCreate,  db: Session = Depends(get_db)):
     #hash the password - user.password
-    hashed_password = utilis.hash(user.password)
+    hashed_password = utils.hash(user.password)
     user.password = hashed_password
     new_user = models.User(**user.dict())#when u have more 10 fields. this makes it easy
     db.add(new_user)
