@@ -21,7 +21,7 @@ app.include_router(vote.router)
 
 
 
-models.Base.metadata.create_all(bind= engine)
+#models.Base.metadata.create_all(bind= engine) we dont need it since alembic is creating the tables
 
 app = FastAPI()
 
